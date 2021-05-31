@@ -5,7 +5,7 @@ import List from './List';
 
 function App() {
   return (
-    <h2>Remainder project setup</h2>
+    <h2>Remainder project setup in branch.</h2>
   );
 }
 
